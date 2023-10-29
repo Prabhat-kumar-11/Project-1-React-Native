@@ -45,9 +45,9 @@ const styles = StyleSheet.create({
     elevation: 4,
     shadowOffset: {
       width: 0,
-      height: 2,
+      height: 3,
     },
-    shadowRadius: 6,
+    shadowRadius: 5,
   },
   cardImage: {
     height: 200,
