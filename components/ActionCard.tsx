@@ -47,7 +47,7 @@ export default function ActionCard() {
 
 const styles = StyleSheet.create({
   headingText: {
-    fontSize: 23,
+    fontSize: 25,
     fontWeight: 'bold',
     marginBottom: 10,
   },
